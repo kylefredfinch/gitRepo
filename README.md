@@ -1,2 +1,2 @@
 # gitRepo
-I am practicing my git commands
+I am practicing my git bash commmands
